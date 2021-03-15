@@ -1,0 +1,18 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+div.home-slogan { 
+  color: #C02942;
+  font-family:Poppins;
+}
+
+a.active { 
+  color:red;
+  background-color: #ff0000;
+  font-weight: bold;
+  font-size: 150%;
+}
