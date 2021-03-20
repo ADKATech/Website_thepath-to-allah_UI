@@ -1,0 +1,20 @@
+#top-search a{
+    right: unset;
+    left: 15px;
+}
+@media (max-width: 992px) {
+    #slide-130-layer-100 {
+        top: 50px;
+        padding: 0 50px !important;
+        left: 0;
+      }
+      #slide-130-layer-101 {
+        top: 120px;
+        left: 0;
+        padding: 0 60px !important;
+      }
+      #slide-130-layer-102 {
+        top: 190px !important;
+      }
+    
+}
