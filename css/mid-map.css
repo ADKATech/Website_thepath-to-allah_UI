@@ -64,16 +64,9 @@ a {
   width: 90%;
   margin: 0 auto;
   overflow-x: auto;
-  overflow-y: hidden;
+  overflow-y: auto;
 }
 .man-icon {
-  position: absolute;
-
-  right: 0;
-
-  /* top: 0; */
-
-  right: -0;
 
   width: 158px;
 
@@ -85,6 +78,10 @@ a {
 @media (min-width: 1200px) {
   .man-icon {
     display: block;
+  }
+  .mid-map {
+    
+    overflow-y: hidden;
   }
 }
 .mid-map-title {
