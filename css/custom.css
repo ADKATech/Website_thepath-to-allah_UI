@@ -16,3 +16,12 @@ a.active {
   font-weight: bold;
   font-size: 150%;
 }
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
