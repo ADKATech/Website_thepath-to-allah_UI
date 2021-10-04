@@ -4,7 +4,33 @@
 	Add all your Custom Styled CSS here for New Styles or
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
-.center {text-align: center;}
+.custom-div-center {
+  margin: auto;
+  width: 100%;
+  border: 3px solid #73AD21;
+}
+
+.div-quran-index {
+  /*top: 0;*/
+  /*left: 0;*/
+  /*bottom: 0;*/
+  /*right: 0;*/
+}
+
+.table-quran-index {
+
+}
+
+.td-quran-index {
+  /*width: 20%;*/
+}
+
+.button-quran-index {
+  min-width: 210px;
+  /*max-width: 280px;*/
+  /*text-align: center;*/
+}
+
 
 div.home-slogan { 
   color: #C02942;
